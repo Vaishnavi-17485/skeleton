@@ -1,0 +1,17 @@
+footer{
+    display:flex
+}
+#fot1{
+    position:absolute;
+}
+#fot2{
+    position:absolute;
+    left: 100px;
+}
+#fot3{
+    position:absolute;
+    left: 200px;
+}
+#image{
+    border-radius: 50px;
+}
